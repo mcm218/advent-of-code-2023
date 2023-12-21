@@ -4,7 +4,16 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "run": "ts-node index.ts"
+    "day1": "bun day1.ts",
+    "day2": "bun day2.ts",
+    "day3": "bun day3.ts",
+    "day4": "bun day4.ts",
+    "day5": "bun day5.ts",
+    "day6": "bun day6.ts",
+    "day7": "bun day7.ts",
+    "day8": "bun day8.ts",
+    "day9": "bun day9.ts",
+    "day10": "bun day10.ts"
   },
   "author": "",
   "license": "ISC",
